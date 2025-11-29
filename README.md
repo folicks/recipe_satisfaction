@@ -1,6 +1,6 @@
 # Prediction of Minutes in Recipe
 
-**Name(s)**: Yixuan Xin, Felix Najera
+**Name(s)**: Yixuan Xin
 
 **Website Link**:[ (https://ivvvvvvvy123.github.io/recipe_satisfaction/)]
 
